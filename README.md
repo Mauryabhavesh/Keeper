@@ -59,8 +59,3 @@ npm start
 ![image](https://user-images.githubusercontent.com/61752151/170197346-b720b947-f763-4280-928e-b39195e86ec7.png)
 
 
-
-## 👨‍💻 Connect with me 
-<a href="https://twitter.com/dkamat001"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/deepak-1373"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
